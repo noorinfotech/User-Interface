@@ -92,7 +92,7 @@ header nav {
 	display: inline-block;
 	
 	/* stretch goals */
-	vertical-align: center;
+	vertical-align: middle;
 }
 header nav a {
 	text-decoration: none;
